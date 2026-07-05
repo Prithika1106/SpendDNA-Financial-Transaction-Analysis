@@ -40,7 +40,6 @@ SpendDNA-Financial-Transaction-Analysis/
 ├── Minorproject2.ipynb
 ├── README.md
 ├── requirements.txt
-├── screenshots/
 └── Data set for DADS June.csv
 ```
 
